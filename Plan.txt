@@ -5,5 +5,9 @@ Angular
 JS
 MongoDB
 
+
 DS and Algo
 AI and ML
+
+Happy Learning!!
+
